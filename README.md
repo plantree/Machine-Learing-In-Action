@@ -7,4 +7,5 @@
 #### Part 1、 分类
 - [k-近邻算法（kNN）](https://github.com/plantree/Machine-Learing-In-Action/tree/master/chapter2)
 - [决策树算法](https://github.com/plantree/Machine-Learing-In-Action/tree/master/chapter3)
-- 
+- [朴素贝叶斯](https://github.com/plantree/Machine-Learing-In-Action/tree/master/chapter4)
+- [Logistic回归](https://github.com/plantree/Machine-Learing-In-Action/tree/master/chapter5)
