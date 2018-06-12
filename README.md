@@ -15,3 +15,6 @@
 
 ####  Part 2、回归
 
+- [预测数值型数据：回归](https://github.com/plantree/Machine-Learing-In-Action/blob/master/chapter7/%E9%A2%84%E6%B5%8B%E6%95%B0%E5%80%BC%E5%9E%8B%E6%95%B0%E6%8D%AE%EF%BC%9A%E5%9B%9E%E5%BD%92.ipynb)
+- ​
+
