@@ -23,6 +23,10 @@
 
 - [利用K-均值聚类算法对未标注数据分组](https://github.com/plantree/Machine-Learing-In-Action/blob/master/chapter9/%E5%88%A9%E7%94%A8K-%E5%9D%87%E5%80%BC%E8%81%9A%E7%B1%BB%E7%AE%97%E6%B3%95%E5%AF%B9%E6%9C%AA%E6%A0%87%E6%B3%A8%E6%95%B0%E6%8D%AE%E5%88%86%E7%BB%84.ipynb)
 - [使用Apriori算法进行关联分析](https://github.com/plantree/Machine-Learing-In-Action/blob/master/chapter10/%E4%BD%BF%E7%94%A8Apriori%E7%AE%97%E6%B3%95%E8%BF%9B%E8%A1%8C%E5%85%B3%E8%81%94%E5%88%86%E6%9E%90.ipynb)
-- ​
+- [使用FP-growth算法来高效返现频繁项集](https://github.com/plantree/Machine-Learing-In-Action/blob/master/chapter11/%E4%BD%BF%E7%94%A8FP-growth%E7%AE%97%E6%B3%95%E6%9D%A5%E9%AB%98%E6%95%88%E5%8F%91%E7%8E%B0%E9%A2%91%E7%B9%81%E9%A1%B9%E9%9B%86.ipynb)
 
+
+#### Part4、其他工具
+- [利用PCA来简化数据](https://github.com/plantree/Machine-Learing-In-Action/blob/master/chapter12/%E5%88%A9%E7%94%A8PCA%E6%9D%A5%E7%AE%80%E5%8C%96%E6%95%B0%E6%8D%AE.ipynb)
+- [利用SVD来简化数据](https://github.com/plantree/Machine-Learing-In-Action/blob/master/chapter13/%E5%88%A9%E7%94%A8SVD%E7%AE%80%E5%8C%96%E6%95%B0%E6%8D%AE.ipynb)
 
